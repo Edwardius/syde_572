@@ -14,3 +14,5 @@ source syde572_venv/bin/activate
 pip install -r requirements.txt
 ```
 
+## Selecting Interpreter
+When selecting an interpreter to run the .ipynb files with. Select `
